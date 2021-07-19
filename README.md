@@ -1,2 +1,1 @@
-# hotel_react
-hotel by react js
+# hotel_reacthotel by react js
